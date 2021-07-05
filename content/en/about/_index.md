@@ -15,10 +15,10 @@ YouTube videos, my skill sets are increasing almost every day, every hour. My st
 and various personal projects experience only make me firmly believe: after all, human learning beats machine
 learning, no matter what.
 
-Some of the highlights:
+<!-- Some of the highlights:
 * Proficiency in Python and MySQL
 * Machine Learning modeling and project experience
 * Data collection, processing and visualization
 * Hands-on experience of Apache Hive and Hadoop
 * Knowledge about GCP and AWS, a practitioner
-* Entry level Switch and Flask developer skill
+* Entry level Switch and Flask developer skill -->
